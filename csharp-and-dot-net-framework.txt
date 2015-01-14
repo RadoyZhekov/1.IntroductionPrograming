@@ -1,0 +1,5 @@
+C# is a programming language developed by Microsoft and can be use for performing a mathematical and logical operations.It has a power to develop software. It is a strong language for network and internet programming.
+
+
+The .NET framework is a toolset developed for the Windows platform to allow the developer 
+to interact with the host system or any external entity whether it be another process, or another computer.

@@ -1,0 +1,8 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\HorribleCode\bin\Debug\HorribleCode.exe.config
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\HorribleCode\obj\Debug\HorribleCode.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\HorribleCode\obj\Debug\HorribleCode.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\HorribleCode\bin\Debug\HorribleCode.exe.config
+D:\Telerik\Homeworks\1.IntroductionPrograming\HorribleCode\obj\Debug\HorribleCode.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\HorribleCode\obj\Debug\HorribleCode.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\HorribleCode\bin\Debug\HorribleCode.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\HorribleCode\bin\Debug\HorribleCode.pdb

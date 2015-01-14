@@ -1,0 +1,8 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+D:\Telerik\Homeworks\1.IntroductionPrograming\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

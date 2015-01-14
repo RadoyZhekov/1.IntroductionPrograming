@@ -1,0 +1,5 @@
+D:\Telerik\Homeworks\1.IntroductionPrograming\Debugger\bin\Debug\Debugger.exe.config
+D:\Telerik\Homeworks\1.IntroductionPrograming\Debugger\bin\Debug\Debugger.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\Debugger\bin\Debug\Debugger.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\Debugger\obj\Debug\Debugger.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\Debugger\obj\Debug\Debugger.pdb

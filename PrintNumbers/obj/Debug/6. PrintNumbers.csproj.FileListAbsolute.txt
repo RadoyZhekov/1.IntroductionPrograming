@@ -1,0 +1,5 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintNumbers\obj\Debug\PrintNumbers.pdb

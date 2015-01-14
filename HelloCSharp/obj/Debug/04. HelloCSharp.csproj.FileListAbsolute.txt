@@ -1,0 +1,3 @@
+D:\Telerik\Homeworks\1.IntroductionPrograming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Telerik\Homeworks\1.IntroductionPrograming\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\HelloCSharp\obj\Debug\HelloCSharp.pdb

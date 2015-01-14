@@ -1,0 +1,5 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintMyName\obj\Debug\PrintMyName.pdb

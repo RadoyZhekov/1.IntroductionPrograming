@@ -1,0 +1,3 @@
+D:\Telerik\Homeworks\1.IntroductionPrograming\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+D:\Telerik\Homeworks\1.IntroductionPrograming\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

@@ -1,0 +1,6 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintASequence\bin\Debug\PrintASequence.exe.config
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintASequence\bin\Debug\PrintASequence.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintASequence\bin\Debug\PrintASequence.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintASequence\obj\Debug\PrintASequence.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintASequence\obj\Debug\PrintASequence.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\PrintASequence\obj\Debug\9. PrintASequence.csprojResolveAssemblyReference.cache

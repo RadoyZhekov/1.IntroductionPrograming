@@ -1,0 +1,10 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\SquareRoot\obj\Debug\SquareRoot.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Telerik\Homeworks\1.IntroductionPrograming\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\SquareRoot\obj\Debug\SquareRoot.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\SquareRoot\bin\Debug\SquareRoot.pdb

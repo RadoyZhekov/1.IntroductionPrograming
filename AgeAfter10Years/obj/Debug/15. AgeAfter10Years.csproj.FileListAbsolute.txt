@@ -1,0 +1,12 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\AgeAfter10Years\obj\Debug\15. AgeAfter10Years.csprojResolveAssemblyReference.cache
+D:\Telerik\Homeworks\1.IntroductionPrograming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+D:\Telerik\Homeworks\1.IntroductionPrograming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+D:\Telerik\Homeworks\1.IntroductionPrograming\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+D:\Telerik\Homeworks\1.IntroductionPrograming\AgeAfter10Years\obj\Debug\15. AgeAfter10Years.csprojResolveAssemblyReference.cache

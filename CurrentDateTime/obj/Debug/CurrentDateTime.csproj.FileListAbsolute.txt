@@ -1,0 +1,1 @@
+c:\users\radoy\documents\visual studio 2012\Projects\Solution1\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
